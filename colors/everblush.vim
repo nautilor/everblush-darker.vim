@@ -1,7 +1,7 @@
 "
 "Projecteverblush Vim
-" Repository: https://github.com/mangeshre/everblush.vim
-" Maintainer: https://github.com/Mangeshrex
+" Repository: https://github.com/nautilor/everblush-darker.vim
+" Maintainer: https://github.com/nautilor
 " LICENSE: MIT
 
 " Setting up the colors
@@ -21,7 +21,7 @@ let s:everblush12_gui = "#6cb5ed"
 let s:everblush13_gui = "#ce89df"
 let s:everblush14_gui = "#67cbe7"
 let s:everblush15_gui = "#bdc3c2"
-let s:everblushbg_gui = "#181f21"
+let s:everblushbg_gui = "#131A1C"
 let s:everblushfg_gui = "#dadada"
 
 let s:everblushNR_fg = s:everblush7_gui
@@ -31,7 +31,7 @@ syntax reset
 let g:colors_name = "everblush"
 set background=dark
 set t_Co=256
-hi Normal guifg=#DADADA ctermbg=NONE guibg=#181f21 gui=NONE
+hi Normal guifg=#DADADA ctermbg=NONE guibg=#131A1C gui=NONE
 
 set t_Co=256
 let &t_ut=''

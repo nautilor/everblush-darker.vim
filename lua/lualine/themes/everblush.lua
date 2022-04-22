@@ -1,7 +1,7 @@
 local everblush = {}
 local colors = {
   fg = '#dadada',
-  bg = '#181f21',
+  bg = '#131A1C',
   black = '#22292b',
   darkbg = '#151b1d',
   red = '#e06e6e',
