@@ -21,7 +21,7 @@ Plug 'mangeshrex/everblush.vim'
 
 # PackerNvim
 ```lua
-use { "mangeshrex/everblush.vim" }`
+use { "nautilor/everblush-darker.vim" }`
 ```
 
 # Options
