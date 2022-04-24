@@ -15,7 +15,7 @@
 # Vim-Plug
 - First install <a href="https://github.com/junegunn/vim-plug">vim-plug</a>
 ```vimscript
-Plug 'mangeshrex/everblush.vim'
+Plug 'nautilor/everblush-darker.vim'
 ```
 - Add ```colorscheme everblush``` to .vimrc or init.vim.
 
